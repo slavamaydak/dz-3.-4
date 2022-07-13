@@ -1,0 +1,48 @@
+.jer {
+    font-family: "Playfair Display";
+    font-size: 70px;
+    text-align: center;
+    background-color: rgb(152, 227, 237);
+}
+
+.ee {
+    font-family: 'Merriweather';
+    font-weight:400 ;
+    font-style: italic ; 
+    font-size: 30px;
+}
+
+.pp {
+    font-family:'Merriweather' ;
+    font-weight: 300 ;
+    font-style: light;
+}
+
+.cc {
+    height: 530px;
+    float: left;
+    margin: 0 20 0 0;
+}
+
+.yy {
+    font-family: 'Merriweather';
+    font-weight:400 ;
+    font-style: italic ; 
+    font-size: 30px;
+    margin: 60px 0px 30px 0px;
+}
+
+.ll {
+    margin: 30px 0px 0px 0px;
+}
+
+.oo {
+    width: 190px;
+    float: right;
+    margin: 0px 20px 0px 20px;
+}
+
+.hh {
+    background-color:rgb(152, 227, 237) ;
+    
+}
